@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PopGenReport"]
+	path = PopGenReport
+	url = https://github.com/green-striped-gecko/popgenreport
+	shallow = true
+	registered = true
