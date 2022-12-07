@@ -1,5 +1,9 @@
 [
   {
+    "package": "dartR",
+    "oncran": true
+  },
+  {
     "package": "dartR.data",
     "oncran": true
   },
