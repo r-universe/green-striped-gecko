@@ -1,10 +1,10 @@
 [
   {
-    "package": "dartR",
+    "package": "dartR.data",
     "oncran": true
   },
   {
-    "package": "dartR.data",
+    "package": "dartR",
     "oncran": true
   },
   {
