@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PopGenReport"]
+	path = PopGenReport
+	url = https://github.com/green-striped-gecko/popgenreport
 [submodule "dartR"]
 	path = dartR
 	url = https://github.com/green-striped-gecko/dartr
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/green-striped-gecko/dartr.data
-[submodule "PopGenReport"]
-	path = PopGenReport
-	url = https://github.com/green-striped-gecko/popgenreport
