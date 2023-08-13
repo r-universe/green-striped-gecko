@@ -8,6 +8,9 @@
 [submodule "dartR"]
 	path = dartR
 	url = https://github.com/green-striped-gecko/dartr
+[submodule "dartR.base"]
+	path = dartR.base
+	url = https://github.com/cran/dartR.base
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/green-striped-gecko/dartr.data
