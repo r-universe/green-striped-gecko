@@ -17,3 +17,6 @@
 [submodule "dartR.spatial"]
 	path = dartR.spatial
 	url = https://github.com/cran/dartR.spatial
+[submodule "dartRverse"]
+	path = dartRverse
+	url = https://github.com/green-striped-gecko/dartrverse
