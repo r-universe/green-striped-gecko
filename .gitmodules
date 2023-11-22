@@ -14,6 +14,9 @@
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/green-striped-gecko/dartr.data
+[submodule "dartR.popgen"]
+	path = dartR.popgen
+	url = https://github.com/cran/dartR.popgen
 [submodule "dartR.sim"]
 	path = dartR.sim
 	url = https://github.com/green-striped-gecko/dartr.sim
