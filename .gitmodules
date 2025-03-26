@@ -5,6 +5,9 @@
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/green-striped-gecko/popgenreport
+[submodule "dartR"]
+	path = dartR
+	url = https://github.com/green-striped-gecko/dartr
 [submodule "dartR.base"]
 	path = dartR.base
 	url = https://github.com/cran/dartR.base
